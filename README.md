@@ -168,7 +168,7 @@ Uygulama, SOLID prensiplerine uyarak yüksek kaliteli, anlaşılır ve sürdür�
 
 ## 💬 İletişim
 
-Bu proje ile ilgili iletişime geçmek isterseniz, [email@example.com](mailto:edabuzlu@gmail.com) adresinden ulaşabilirsiniz.
+Bu projeyle ilgili iletişime geçmek isterseniz, [email@example.com](mailto:edabuzlu@gmail.com) adresinden ulaşabilirsiniz.
 
 ---
 
