@@ -166,10 +166,4 @@ Uygulama, SOLID prensiplerine uyarak yüksek kaliteli, anlaşılır ve sürdür�
 
 ---
 
-## 💬 İletişim
-
-Bu projeyle ilgili iletişime geçmek isterseniz, [email@example.com](mailto:edabuzlu@gmail.com) adresinden ulaşabilirsiniz.
-
----
-
 **PillReminder**'ı kullanarak sağlığınıza dikkat edin, ilaçlarınızı unutmayın! 💊✨
